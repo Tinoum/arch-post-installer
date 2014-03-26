@@ -1,0 +1,9 @@
+
+What I want to do:
+    - Install packages I used to use (group by category?)
+    - Create user
+    - Add config file for user (select which one you want)
+   
+How will it works:
+    - Written in Python
+    - User interface in (N)Curses 
